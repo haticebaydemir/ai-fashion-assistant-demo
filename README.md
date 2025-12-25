@@ -122,11 +122,6 @@ Advanced fashion search and recommendation system using:
 - Collaborative filtering
 - Semantic search
 
-**Publications (Planned):**
-- SIGIR 2025: Main system paper
-- ACL 2025: Turkish language adaptation
-- RecSys 2025: User study
-
 ---
 
 ## 🚧 Development Status
